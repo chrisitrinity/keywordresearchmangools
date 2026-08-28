@@ -1,2 +1,2 @@
 # keywordresearchmangools
-Using keyword for mangools
+A Claude skill that runs a complete SEO keyword-research pipeline from a single seed keyword and your domain. Pulls live data from the Mangools API (KWFinder + SERPChecker) and returns seed metrics, real organic competitors, long-tail keywords, competitor gap analysis, People-Also-Ask questions, topic and page-type clusters, traffic estimates, and a ranked list of pages to build — exported to CSV and JSON. Nine steps, each grounded in real data. Needs a Mangools API key and the Code Execution tool. Heavy on API calls (~30–50 lookups per full run), so intended for paid Mangools plans. For free accounts, use the free edition.
